@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerWorldCommandExecution">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="PerWorldCommandExecution.jar">
+      <element id="module-output" name="PerWorldCommandExecution" />
+    </root>
+  </artifact>
+</component>

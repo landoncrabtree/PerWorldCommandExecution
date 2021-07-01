@@ -1,0 +1,6 @@
+name: PerWorldCommandExecution
+version: 1.0
+main: pw.landon.pwce.PWCEPlugin
+depend: [Citizens]
+commands:
+  pwce:
